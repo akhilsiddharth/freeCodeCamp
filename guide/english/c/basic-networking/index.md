@@ -15,3 +15,14 @@ But, how will it arrive at the apartment? Every apartment has there own unique a
 ## Basics of Socket Programming
 
 Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server.
+
+## Socket creation:
+
+int sockfid = socket(domain, type, protocol)
+
+sockfid: socket descriptor, an integer (similar to a file-handle)
+domain: integer, communication domain e.g., AF_INET (IPv4 protocol) , AF_INET6 (IPv6 protocol)
+type: communication mode
+SOCK_STREAM: TCP(reliable, connection oriented)
+SOCK_DGRAM: UDP(unreliable, connectionless)
+protocol: Protocol value for Internet Protocol(IP), which is 0. This is the same number which appears on protocol field in the IP header of a packet.
