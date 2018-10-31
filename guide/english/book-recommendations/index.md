@@ -114,6 +114,10 @@ title: Books to Read for Programmers
 - [Wiley](https://www.wiley.com/en-id/Programming+Interviews+Exposed:+Secrets+to+Landing+Your+Next+Job,+2nd+Edition-p-9780470121672)
 - ISBN: 978-0-470-12167-2
 
+* Coding Interview Questions, 3rd Edition Paperback by Narasimha Karumanchi
+- https://www.amazon.com/Coding-Interview-Questions-Narasimha-Karumanchi/dp/8193245202/ref=sr_1_4?s=books&ie=UTF8&qid=1540993450&sr=1-4&keywords=narasimha+karumanchi
+- ISBN-13: 978-8193245200
+
 ## Database
 
 *Database Systems: Design, Implementation, & Management 12th Edition*
@@ -131,6 +135,7 @@ title: Books to Read for Programmers
 
 *Introduction to Java Programming and Data Structures by Y. Daniel Liang
 - [Amazon Smile](https://smile.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0134670949/ref=sr_1_3?s=books&ie=UTF8&qid=1539892132&sr=1-3&keywords=introduction+to+java+programming+daniel+liang+11th+edition&pldnSite=1)
+
 
 ## JavaScript
 
